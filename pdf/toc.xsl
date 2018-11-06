@@ -14,7 +14,7 @@
           * {
             padding: 0;
             margin: 0;
-            letter-spacing: normal;
+            letter-spacing: 1px;
             font-family: Arial, Helvetica, sans-serif;
           }
 
